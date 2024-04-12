@@ -1,6 +1,6 @@
 # Enviando e-mail de forma automática com Python
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ma-sayuri//blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/ma-sayuri/auto-e-mail/blob/main/LICENSE) 
 
 # Sobre o projeto
 
